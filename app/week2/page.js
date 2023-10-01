@@ -10,9 +10,10 @@ export default function Page(){
 
         <main>
 
-            <h1>My Shopping List</h1>
+            <h1>Week 2</h1>
 
             <MyComponent />
+            <p>My shopping List</p>
 
             <Link href="..">&lt;- Back</Link>
 
